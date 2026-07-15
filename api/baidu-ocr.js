@@ -1,4 +1,3 @@
-import crypto from 'crypto';
 
 const ALLOWED_ORIGINS = ["https://led-tester.pages.dev", "***", "***"];
 const CORS_HEADERS = {
